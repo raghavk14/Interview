@@ -1,0 +1,4 @@
+http://www.aosabook.org/en/distsys.html
+
+How do you ensure high availability and scalability of your app ?
+https://www.youtube.com/watch?v=dvnZxF0E28I

@@ -1,0 +1,5 @@
+How do you design tiny urls ?
+
+Api Design: https://www.youtube.com/watch?v=HeXQ98sogs8&list=PLWPirh4EWFpGRdVZcQCzeTXFBNSTDAdQX
+
+What is Service Mesh ? https://www.youtube.com/watch?v=vh1YtWjfcyk

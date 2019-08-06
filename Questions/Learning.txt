@@ -1,0 +1,3 @@
+Render web pages faster (in chunks) like google, amazon
+
+https://codeburst.io/whats-the-crp-of-your-webpage-45ba8f8335cc

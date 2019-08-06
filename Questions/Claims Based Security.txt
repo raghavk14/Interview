@@ -1,0 +1,19 @@
+1. Tokens are SAML (Security Access Markup Language)
+2. Once user provides user name and pwd the STS (Security Token Service) will be provided by IdP (Identity Providers), which is laden with claims and is digitally signed.
+3. What information the claims contained in a token can have ?
+	
+	A claim can identify a user
+	A claim can convey group or role memebership
+	A claim can grant or deny the right oto do something e.g. Such as access particular info. or invoke specific methods
+	A claim cna constrain the right to do something e.g. Such as indicating the user's purchasing limit
+
+4. An application which entertains users with tokens, can accept token from either only one STS IdP for multiple. An enterprise application might entertain
+   tokens from only one IdP but a public shopping website can entertain tokens from multiple IdPs (list of Trusted IdPs) such as facebook, google or Microsoft.
+
+5. LDAP - Lightweight Directory Access Protocol
+
+
+        
+
+
+       
